@@ -1,0 +1,18 @@
+{
+    "name": "waris/gptpro",
+    "type": "project",
+    "require": {
+        "openai-php/client": "^0.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Waris\\Gptpro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wares",
+            "email": "waris.aslami2@gmail.com"
+        }
+    ]
+}
