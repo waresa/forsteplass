@@ -15,7 +15,7 @@ include 'assets/classes/logs.php';
 require_once __DIR__ . '/vendor/autoload.php';
 
 
-$client = OpenAI::client('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');
+$client = OpenAI::client('OPENAI-API-KEY-HERE');
 $logs = new Logs();
 
 
